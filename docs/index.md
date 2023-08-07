@@ -1,6 +1,4 @@
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-
 ## Welcome
 
 Thank you for checking out Source Craft.
